@@ -6,7 +6,8 @@
       "author": "Josef Kajetán Tyl",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-08-25T07:15:15.928Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "subtitle": "Národní báchorka se zpěvy o třech dějstvích"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
@@ -18,12 +19,12 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "",
-      "brAfter": "",
+      "brBefore": "MLP-text-bez1radku--12-0",
+      "brAfter": "MLP-text-bez1radku--0-12",
       "blockquote": "",
       "figure": "",
-      "em": "",
-      "strong": "",
+      "em": "MLP-scenicke-poznamky\nMLP-text-uprostred--I\nMLP-znak-kurziva-.+",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-tiraz-podnazev\nMLP-znak-tucne-11b",
       "remove": "",
       "ignore": ""
     },
@@ -32,33 +33,45 @@
         "filename": "strakonicky_dudak_001.md",
         "xhtml": "strakonicky_dudak_001.xhtml",
         "id": 0,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": false,
+        "title": "",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "strakonicky_dudak_002.md",
         "xhtml": "strakonicky_dudak_002.xhtml",
         "id": 1,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": false,
+        "title": "",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "strakonicky_dudak_003.md",
         "xhtml": "strakonicky_dudak_003.xhtml",
         "id": 2,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": false,
+        "title": "",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "strakonicky_dudak_004.md",
         "xhtml": "strakonicky_dudak_004.xhtml",
         "id": 3,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": false,
+        "title": "",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "strakonicky_dudak_005.md",
@@ -66,7 +79,10 @@
         "id": 4,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "OSOBY",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "strakonicky_dudak_006.md",
@@ -74,7 +90,10 @@
         "id": 5,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "DĚJSTVÍ PRVNÍ",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "strakonicky_dudak_007.md",
@@ -82,7 +101,10 @@
         "id": 6,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "DĚJSTVÍ DRUHÉ",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "strakonicky_dudak_008.md",
@@ -90,15 +112,21 @@
         "id": 7,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "DĚJSTVÍ TŘETÍ",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "strakonicky_dudak_009.md",
         "xhtml": "strakonicky_dudak_009.xhtml",
         "id": 8,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": false,
+        "title": "",
+        "subtitle": "",
+        "children": []
       }
     ]
   },
@@ -108,8 +136,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Josef Kajetán Tyl",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-25T07:15:15.928Z",
-      "languageCode": "cs"
+      "modified": "2021-08-25T07:19:51.757Z"
     },
     "chapters": [
       {
@@ -137,25 +164,25 @@
         "xhtml": "strakonicky_dudak_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "OSOBY",
         "subtitleSuggest": "",
         "filename": "strakonicky_dudak_005.md",
         "xhtml": "strakonicky_dudak_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DĚJSTVÍ PRVNÍ",
         "subtitleSuggest": "",
         "filename": "strakonicky_dudak_006.md",
         "xhtml": "strakonicky_dudak_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DĚJSTVÍ DRUHÉ",
         "subtitleSuggest": "",
         "filename": "strakonicky_dudak_007.md",
         "xhtml": "strakonicky_dudak_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DĚJSTVÍ TŘETÍ",
         "subtitleSuggest": "",
         "filename": "strakonicky_dudak_008.md",
         "xhtml": "strakonicky_dudak_008.xhtml"
@@ -252,6 +279,6 @@
       "user": "books-are-next",
       "repo": "strakonicky-dudak"
     },
-    "generatedAt": 1629875716349
+    "generatedAt": 1629875992255
   }
 }
