@@ -26,7 +26,7 @@
       "em": "MLP-scenicke-poznamky\nMLP-text-uprostred--I\nMLP-znak-kurziva-.+",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP-tiraz-podnazev\nMLP-znak-tucne-11b",
       "remove": "",
-      "ignore": ""
+      "ignore": "MLP-text"
     },
     "structure": [
       {
