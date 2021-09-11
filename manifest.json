@@ -1,0 +1,473 @@
+{
+  "author": "Josef Kajetán Tyl",
+  "identifier": "tyl-strakonicky-dudak-e28bee8",
+  "languagecode": "cs",
+  "modified": "2021-08-25T07:15:15.928Z",
+  "publisher": "Městská knihovna v Praze",
+  "subtitle": "Národní báchorka se zpěvy o třech dějstvích",
+  "title": "Strakonický dudák",
+  "revision": "e28bee8",
+  "generatedAt": {
+    "date": "Sat Sep 11 2021 09:53:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1631353992900
+  },
+  "documents": [
+    {
+      "title": "",
+      "file": "colophon.html",
+      "words": 152,
+      "chars": 1005,
+      "ideas": 26,
+      "role": "colophon",
+      "order": null,
+      "next": "strakonicky_dudak_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "title: ''",
+              "id": "title-",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "title: ''",
+              "id": "title--1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "index.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "index",
+      "order": null,
+      "next": "strakonicky_dudak_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "resources.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": "strakonicky_dudak_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "strakonicky_dudak_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "strakonicky_dudak_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "strakonicky_dudak_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "strakonicky_dudak_001.html",
+      "next": "strakonicky_dudak_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "OSOBY",
+      "file": "strakonicky_dudak_005.html",
+      "words": 106,
+      "chars": 727,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 2,
+      "prev": "strakonicky_dudak_002.html",
+      "next": "strakonicky_dudak_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "OSOBY",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DĚJSTVÍ PRVNÍ",
+      "file": "strakonicky_dudak_006.html",
+      "words": 4872,
+      "chars": 26720,
+      "ideas": 471,
+      "role": "chapter",
+      "order": 3,
+      "prev": "strakonicky_dudak_005.html",
+      "next": "strakonicky_dudak_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DĚJSTVÍ PRVNÍ",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Výstup 1., prolog před oponou",
+              "id": "výstup-1-prolog-před-oponou",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Výstup 2",
+              "id": "výstup-2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Výstup 3",
+              "id": "výstup-3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Výstup 4",
+              "id": "výstup-4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Výstup 5",
+              "id": "výstup-5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Výstup 6",
+              "id": "výstup-6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Výstup 7",
+              "id": "výstup-7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "Výstup 8",
+              "id": "výstup-8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "Výstup 9",
+              "id": "výstup-9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "Výstup 10",
+              "id": "výstup-10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "Výstup 11",
+              "id": "výstup-11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "Výstup 12",
+              "id": "výstup-12",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "Výstup 13",
+              "id": "výstup-13",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DĚJSTVÍ DRUHÉ",
+      "file": "strakonicky_dudak_007.html",
+      "words": 5551,
+      "chars": 30973,
+      "ideas": 470,
+      "role": "chapter",
+      "order": 4,
+      "prev": "strakonicky_dudak_006.html",
+      "next": "strakonicky_dudak_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DĚJSTVÍ DRUHÉ",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Výstup 1",
+              "id": "výstup-1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Výstup 2",
+              "id": "výstup-2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Výstup 3",
+              "id": "výstup-3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Výstup 4",
+              "id": "výstup-4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Výstup 5",
+              "id": "výstup-5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Výstup 6",
+              "id": "výstup-6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Výstup 7",
+              "id": "výstup-7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "Výstup 8",
+              "id": "výstup-8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "Výstup 9",
+              "id": "výstup-9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "Výstup 10",
+              "id": "výstup-10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "Výstup 11",
+              "id": "výstup-11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "Výstup 12",
+              "id": "výstup-12",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "Výstup 13",
+              "id": "výstup-13",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DĚJSTVÍ TŘETÍ",
+      "file": "strakonicky_dudak_008.html",
+      "words": 4588,
+      "chars": 25756,
+      "ideas": 337,
+      "role": "chapter",
+      "order": 5,
+      "prev": "strakonicky_dudak_007.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DĚJSTVÍ TŘETÍ",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Výstup 1",
+              "id": "výstup-1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Výstup 2",
+              "id": "výstup-2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Výstup 3",
+              "id": "výstup-3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Výstup 4",
+              "id": "výstup-4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Výstup 5",
+              "id": "výstup-5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Výstup 6",
+              "id": "výstup-6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Výstup 7",
+              "id": "výstup-7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "Výstup 8",
+              "id": "výstup-8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "Výstup 9",
+              "id": "výstup-9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "Výstup 10",
+              "id": "výstup-10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "Výstup 11",
+              "id": "výstup-11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "Výstup 12",
+              "id": "výstup-12",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 15269,
+      "chars": 85181,
+      "ideas": 1329
+    },
+    "chapters": {
+      "words": 15117,
+      "chars": 84176,
+      "ideas": 1303
+    }
+  }
+}
