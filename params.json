@@ -136,7 +136,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Josef Kajetán Tyl",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-25T07:19:51.757Z"
+      "modified": "2021-09-11T09:14:07.062Z"
     },
     "chapters": [
       {
@@ -164,25 +164,25 @@
         "xhtml": "strakonicky_dudak_004.xhtml"
       },
       {
-        "titleSuggest": "OSOBY",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "strakonicky_dudak_005.md",
         "xhtml": "strakonicky_dudak_005.xhtml"
       },
       {
-        "titleSuggest": "DĚJSTVÍ PRVNÍ",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "strakonicky_dudak_006.md",
         "xhtml": "strakonicky_dudak_006.xhtml"
       },
       {
-        "titleSuggest": "DĚJSTVÍ DRUHÉ",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "strakonicky_dudak_007.md",
         "xhtml": "strakonicky_dudak_007.xhtml"
       },
       {
-        "titleSuggest": "DĚJSTVÍ TŘETÍ",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "strakonicky_dudak_008.md",
         "xhtml": "strakonicky_dudak_008.xhtml"
@@ -279,6 +279,6 @@
       "user": "books-are-next",
       "repo": "strakonicky-dudak"
     },
-    "generatedAt": 1629875992255
+    "generatedAt": 1631351647785
   }
 }
