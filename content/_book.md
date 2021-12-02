@@ -10,13 +10,15 @@ meta:
   modified: '2021-08-25T07:15:15.928Z'
   languageCode: cs
   subtitle: Národní báchorka se zpěvy o třech dějstvích
-chapters:
-  - strakonicky_dudak_001.html
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
   - strakonicky_dudak_002.html
   - strakonicky_dudak_005.html
   - strakonicky_dudak_006.html
   - strakonicky_dudak_007.html
   - strakonicky_dudak_008.html
+  - colophon.html
 tocBase:
   - link: strakonicky_dudak_005.html
     title: OSOBY
@@ -32,5 +34,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---

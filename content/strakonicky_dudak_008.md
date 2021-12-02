@@ -8,7 +8,7 @@ _Vesnická hospoda, několik stolů a židlí._
 
 _FRANĚK a VÁŠA sedí u stolu a mají džbánky před sebou, NALEJVÁČEK, VOCILKA, mnohem zpustlejší nežli v druhém jednání, vejde s truhličkou na zádech._
 
-**VOCILKA**: Bon jour[24](#footnote-27518-24) vespolek! Salvete, carissimi! Mám to potěšení s panem hospodským?
+**VOCILKA**: Bon jour[^24] vespolek! Salvete, carissimi! Mám to potěšení s panem hospodským?
 
 **NALEJVÁČEK**: K službám.
 
@@ -20,7 +20,7 @@ _FRANĚK a VÁŠA sedí u stolu a mají džbánky před sebou, NALEJVÁČEK, 
 
 **NALEJVÁČEK**: Člověče, jste blázen?
 
-**VOCILKA**: Ještě ne, ale _(odepíná truhličku a staví ji na stůl)_ neručím za nic, kdyby se něco přihodilo tuhle mým skvostným věcem. Po této přátelské ekšplikaci[25](#footnote-27518-25) bych prosil o džbáneček od čepu.
+**VOCILKA**: Ještě ne, ale _(odepíná truhličku a staví ji na stůl)_ neručím za nic, kdyby se něco přihodilo tuhle mým skvostným věcem. Po této přátelské ekšplikaci[^25] bych prosil o džbáneček od čepu.
 
 **NALEJVÁČEK**: To se může stát.
 
@@ -44,7 +44,7 @@ _ŠVANDA. Potom NALEJVÁČEK, předešlí. ŠVANDA je podnapilý._
 
 **ŠVANDA**: Dobrého zdraví, hoši, dobrého zdraví. I kýho ďábla! Jakpak ty sem přicházíš, ďábelská podšívko?
 
-**VOCILKA**: Svou vlastní ekvipáží[26](#footnote-27518-26). Služebníček – těší mě –
+**VOCILKA**: Svou vlastní ekvipáží[^26]. Služebníček – těší mě –
 
 **ŠVANDA** _(obejde hrozivě VOCILKU, dlouho si jej měří)_: Hoši, vyvalchujte mi tenhle měch, já vám budu za to celou noc hrát zadarmo!
 
@@ -84,7 +84,7 @@ _NALEJVÁČEK přinese džbánek._
 
 **ŠVANDA**: Ha, ha, ha!
 
-**VOCILKA**: To byste ani neřekl, jaká je to spekulace, když se vydaří; to je ta nejlepší divadelní direkce, protože se nestará o gáže – a hercové nikdy nepokoušejí, nedělají pikle a úklady. Na počátku se mi také dařilo; ale poněvadž nýnčko při tom kunštu jeden druhému na kobylce sedí: tedy se mi živnost také ztenčila, a stala se mi konečně malá mrzutost – na poslední hospodě jsem musil nechat celou společnost i s mašinami v prezónu[27](#footnote-27518-27) – sotvaže jsem uplách s malou truhličkou, kde mám ještě princeznu Alcestu, doktora Fausta, Don Šajna a několik čertů. – Ale což to mluvím pořád o sobě. Povězte mi raději vy, jak jste sem přišel, co zde děláte, jak se máte a jak to zde vydržíte?
+**VOCILKA**: To byste ani neřekl, jaká je to spekulace, když se vydaří; to je ta nejlepší divadelní direkce, protože se nestará o gáže – a hercové nikdy nepokoušejí, nedělají pikle a úklady. Na počátku se mi také dařilo; ale poněvadž nýnčko při tom kunštu jeden druhému na kobylce sedí: tedy se mi živnost také ztenčila, a stala se mi konečně malá mrzutost – na poslední hospodě jsem musil nechat celou společnost i s mašinami v prezónu[^27] – sotvaže jsem uplách s malou truhličkou, kde mám ještě princeznu Alcestu, doktora Fausta, Don Šajna a několik čertů. – Ale což to mluvím pořád o sobě. Povězte mi raději vy, jak jste sem přišel, co zde děláte, jak se máte a jak to zde vydržíte?
 
 **ŠVANDA**: Já? A copak mi zde schází? Neslyšel jsi ještě o strakonickém dudákovi?
 
@@ -124,13 +124,13 @@ _NALEJVÁČEK odejde se džbánem._
 
 **VOCILKA**: Tak vy jste odešel z té indiánské země docela sám?
 
-**ŠVANDA** _(dá se do smíchu)_: I ba – skoro nevím, jak jsem vyvázl. Mně se zdá, že mi tam chtěli skrze tu plačtivou princeznu vystrojit šibeniční houpačku; ale v noci mě navštívil někdo tak krásný a dobrý, že to takový ničema jako ty nesmí ani slyšet – a já si pak hrál svou zamilovanou, a vězení se samo otevřelo a vojáci z dešperace[28](#footnote-27518-28), místo co by mě lapli, začali poslouchat, smát se a tancovat, a já jakoby nic skrze ně dál a dál, a nežli jsem si pomyslil, byl jsem za městem. _(Vzdech.)_ Ale bez Dorotky!
+**ŠVANDA** _(dá se do smíchu)_: I ba – skoro nevím, jak jsem vyvázl. Mně se zdá, že mi tam chtěli skrze tu plačtivou princeznu vystrojit šibeniční houpačku; ale v noci mě navštívil někdo tak krásný a dobrý, že to takový ničema jako ty nesmí ani slyšet – a já si pak hrál svou zamilovanou, a vězení se samo otevřelo a vojáci z dešperace[^28], místo co by mě lapli, začali poslouchat, smát se a tancovat, a já jakoby nic skrze ně dál a dál, a nežli jsem si pomyslil, byl jsem za městem. _(Vzdech.)_ Ale bez Dorotky!
 
 **VOCILKA** _(vyvaluje oči)_: Cože? A to všechno jenom skrze dudy? Ne, to by jaktěživ člověk neuvěřil, co takový měch a ta nepatrná píšťala umí.
 
 **ŠVANDA**: I co píšťala! To můžeš do jiné dejmat, až ti oči potečou – to, co já z téhle, z ní nevydejmáš. Aha! To ty koukáš, viď? Oh, já také dlouho nevěděl, co to je; ale když mě drželi v pasti, přišel jsem tomu na kloub. Když já chci, musí podle mne tancovat každý!
 
-**VOCILKA**: Kýho ďábla! _(Vstane, stranou.)_ Aby to byly nějaké divo­tvorné dudy? – Za našich časů – pardieu[29](#footnote-27518-29)! Na mne přicházejí taškářské myšlenky.
+**VOCILKA**: Kýho ďábla! _(Vstane, stranou.)_ Aby to byly nějaké divo­tvorné dudy? – Za našich časů – pardieu[^29]! Na mne přicházejí taškářské myšlenky.
 
 **ŠVANDA**: No, copak tam obcházíš, jako když tě někdo kousl? Pojď pít! Či nemáš chut?
 
@@ -164,7 +164,7 @@ _NALEJVÁČEK odejde se džbánem._
 
 **ŠVANDA**: Ach, kýž se vám to vyjeví!
 
-**VOCILKA**: To by bylo ambo[30](#footnote-27518-30) – a mně k tomu – terno.
+**VOCILKA**: To by bylo ambo[^30] – a mně k tomu – terno.
 
 **ŠVANDA**: Vocilko, dej mi hubičku! Je-li tady taky Dorotka – já nevím, co ti udělám – ach, já se držím sotva na nohou!
 
@@ -592,7 +592,7 @@ _VOCILKA, předešlí, později zjevení LESANY, ROSAVY a VÍL._
 
 **DOROTKA**: Ale hrály vždycky tak, jak ty jsi cítil. Zkus to, jen si je zas vezmi, na tobě záleží, jak zahrají. _(Pomáhá ŠVANDOVI s dudami.)_ Vždyť není těžké je zdvihnout.
 
-**ŠVANDA** _(si bere a zapíná dudy)_: Tak jakou, má zlatá Dorotko?[31](#footnote-27518-31)
+**ŠVANDA** _(si bere a zapíná dudy)_: Tak jakou, má zlatá Dorotko?[^31]
 
 **VOCILKA** _(zlostně mávne rukou)_: Achich! Tady už je moje písnička u konce. _(Odejde.)_
 
@@ -637,18 +637,18 @@ ze Strakonic.
 
 _OPONA_
 
-[24](#footnote-27518-24-backlink) Dobrý den. (Fr.) _Pozn. red._
+[^24]: Dobrý den. (Fr.) _Pozn. red._
 
-[25](#footnote-27518-25-backlink) Správně explikace, výklad, vysvětlení. _Pozn. red._
+[^25]: Správně explikace, výklad, vysvětlení. _Pozn. red._
 
-[26](#footnote-27518-26-backlink) Kočár se spřežením. _Pozn. red._
+[^26]: Kočár se spřežením. _Pozn. red._
 
-[27](#footnote-27518-27-backlink) Zastarale vězení. _Pozn. red._
+[^27]: Zastarale vězení. _Pozn. red._
 
-[28](#footnote-27518-28-backlink) Zoufalství. _Pozn. red._
+[^28]: Zoufalství. _Pozn. red._
 
-[29](#footnote-27518-29-backlink) Dobrý bože. (Fr.) _Pozn. red._
+[^29]: Dobrý bože. (Fr.) _Pozn. red._
 
-[30](#footnote-27518-30-backlink) Výhra na dvě čísla (při hře v loterii). _Pozn. red._
+[^30]: Výhra na dvě čísla (při hře v loterii). _Pozn. red._
 
-[31](#footnote-27518-31-backlink) V dramaturgické úpravě Tylova textu, jejímž autorem je Jiří Frejka, je děj pozměněn. Původně Vocilka s dudy utekl. _Pozn. red._
+[^31]: V dramaturgické úpravě Tylova textu, jejímž autorem je Jiří Frejka, je děj pozměněn. Původně Vocilka s dudy utekl. _Pozn. red._

@@ -27,15 +27,15 @@ _Proměna._
 
 _Před hospodou ve vsi o pěkné hodince. Děti hledí oknem do šenkovny. Je právě po tanci, ozývá se ještě výskání, tleskání a dupání. ŠAVLIČKA s motivem ,,Generál Laudon jede skrz vesnici“ a KODĚRA z hospody._
 
-**ŠAVLIČKA**: I aby do toho prachmilión granátů! Já vím také, co je kus legrace a zábavy, ale tohle vaše vyražení s kozlíkem – to je mi milé jako březová mast našeho profousa[1](#footnote-27518-1).
+**ŠAVLIČKA**: I aby do toho prachmilión granátů! Já vím také, co je kus legrace a zábavy, ale tohle vaše vyražení s kozlíkem – to je mi milé jako březová mast našeho profousa[^1].
 
 **KODĚRA**: Aj, aj, milý chlapče, cožpak se stal z tebe poustevník? Veselost je ta nejlepší apatyka, a tanec vojáka nezabije.
 
-**ŠAVLIČKA**: I což je o tanec – mangari![2](#footnote-27518-2) Voják má podle toho podešve, nebýt jen při něm těch vašich zlořečených dud.
+**ŠAVLIČKA**: I což je o tanec – mangari![^2] Voják má podle toho podešve, nebýt jen při něm těch vašich zlořečených dud.
 
 **KODĚRA**: A mordije jo, tak říkáš nebýt? I toť by pak bylo celé posvícení jako kaše bez omastku a perníku.
 
-**ŠAVLIČKA**: Měli byste mít pořádnou tureckou kapelu – plnou kruchtu muzikantů, helikóny[3](#footnote-27518-3), křídlovky, pozouny –
+**ŠAVLIČKA**: Měli byste mít pořádnou tureckou kapelu – plnou kruchtu muzikantů, helikóny[^3], křídlovky, pozouny –
 
 **KODĚRA**: I, i, copak ti napadá. Aťsi jen jednají ty novomódní plechy po městech, aťsi! My tu držíme na dudy; to je poctivá, staročeská muzika.
 
@@ -43,7 +43,7 @@ _Před hospodou ve vsi o pěkné hodince. Děti hledí oknem do šenkovny. Je p
 
 **KODĚRA**: Ó, já se při ní zmláda jaktěživ dost vytrdloval.
 
-**ŠAVLIČKA**: To věřím, protože jste jaktěživ jiné intrády[4](#footnote-27518-4) neslyšel; ale kdo byl na vojně –
+**ŠAVLIČKA**: To věřím, protože jste jaktěživ jiné intrády[^4] neslyšel; ale kdo byl na vojně –
 
 **KODĚRA**: To věřím, ten zná muziku – až někdy záda brní.
 
@@ -55,7 +55,7 @@ _Z hospody vyjde několik chasníků, někteří jenom pro ochlazení, jiní s�
 
 **ŠAVLIČKA**: Buď rád, skřípale, že tě nikdo neslyší.
 
-**KALAFUNA**: Skřípale? Hehe! – Kdybych tě neznal, Šavličko, myslil bych, že mi chceš míchat žlučí. Já jsem starý primárius[5](#footnote-27518-5).
+**KALAFUNA**: Skřípale? Hehe! – Kdybych tě neznal, Šavličko, myslil bych, že mi chceš míchat žlučí. Já jsem starý primárius[^5].
 
 **ŠAVLIČKA**: Ty? To si přijď k nám poslechnout primáriusa, když přijede takhle nějaký z Babylónu – nebo odkudsi. Ten hraje, divže si neutrhne ruce, a posluchači dostávají křeče.
 
@@ -93,9 +93,9 @@ _Z hospody vyjde několik chasníků, někteří jenom pro ochlazení, jiní s�
 
 **ŠAVLIČKA**: Inu, dávaly se už koncerty na drnkačku, proč by to nešlo taky s dudami? Mangari! Ale musel by člověk něco umět – rozumíme?
 
-**KALAFUNA**: I což je o to! Švanda to umí z fundamentu[6](#footnote-27518-6); dnes to arci vidět není, když mu láska tlačí na osrdí – he he! – a z toho má potom ten krátký dech.
+**KALAFUNA**: I což je o to! Švanda to umí z fundamentu[^6]; dnes to arci vidět není, když mu láska tlačí na osrdí – he he! – a z toho má potom ten krátký dech.
 
-**ŠAVLIČKA**: Pro holku bys věšel hlavu jako zmoklý kapoun[7](#footnote-27518-7)? Škoda že neznáš nějakou onačejší muziku než ty dudy, mohl bys rovnou do světa a vydělávat peníze; potom bys neměl s láskou žádných hořkostí. Peníze dokážou, nač si jen pomyslíš. Kdo má cvoky, podepírá boky.
+**ŠAVLIČKA**: Pro holku bys věšel hlavu jako zmoklý kapoun[^7]? Škoda že neznáš nějakou onačejší muziku než ty dudy, mohl bys rovnou do světa a vydělávat peníze; potom bys neměl s láskou žádných hořkostí. Peníze dokážou, nač si jen pomyslíš. Kdo má cvoky, podepírá boky.
 
 Peníze jsou pány světa,  
 dukát, to je pravý rek,  
@@ -137,7 +137,7 @@ _Vrátí se do hospody, všechna chasa s ním; jen KALAFUNA a ŠVANDA zůstano
 
 **KALAFUNA**: He, he – kdyby to byly hniličky – proč ne?
 
-**ŠVANDA**: Jen se posmívej! Půjdu a půjdu! Já měl už dávno táhnout sirky, nynčko[8](#footnote-27518-8) to vidím. Když vydělá jiný člověk peníze drnkačkou, seženu já dudama také něco – a kdyby to byl jenom jeden tisíc.
+**ŠVANDA**: Jen se posmívej! Půjdu a půjdu! Já měl už dávno táhnout sirky, nynčko[^8] to vidím. Když vydělá jiný člověk peníze drnkačkou, seženu já dudama také něco – a kdyby to byl jenom jeden tisíc.
 
 **KALAFUNA**: Tobě ty zpropadené tisíce zmatou ještě kolečka. Podívej se na mne; já neměl ani zlámané grešle – he, he, když jsem si namlouval svou slaďoučkou Kordulku – její máma na mne brala koště –, a přece jsem holku dostal. Jenom trpělivě, jenom nic násilím.
 
@@ -247,7 +247,7 @@ _ŠVANDA, potom DOROTKA._
 
 **DOROTKA**: Mnoho?
 
-**ŠVANDA**: Dnes se mi zajiskřilo v mozku a chytlo to jako v plném troudníku[9](#footnote-27518-9). Dorotko, za několik neděl budeme svoji!
+**ŠVANDA**: Dnes se mi zajiskřilo v mozku a chytlo to jako v plném troudníku[^9]. Dorotko, za několik neděl budeme svoji!
 
 **DOROTKA**: Za několik neděl? I ty jemináčku – ach, ty můj zlatý Švando z Blatí! Mne to už beztoho všecko mrzí; tatínek pořád hubuje, a já na tebe nemohu zapomenout; budu na tebe myslit snad ještě v černém hrobě. – A jak to dokážeš?
 
@@ -452,7 +452,7 @@ _LESNÍ PANNY vztáhnou ruce, jako by Švandovy dudy žehnaly._
 Zni z českých dud, hudbo mých zpěvů,  
 kdykoli mládenec ten zahraje!  
 Zni smutným srdcím pro úlevu,  
-veselým jak zpěvné šalmaje[10](#footnote-27518-10).
+veselým jak zpěvné šalmaje[^10].
 
 **BĚLENA**:
 
@@ -484,7 +484,7 @@ nám přeje doba večerních stínů.
 
 _KALAFUNA, ŠVANDA spící._
 
-**KALAFUNA** _(trochu bojácně se ohlíží, nežli ŠVANDU zhlédne)_: Ať neumím kalamajku[11](#footnote-27518-11) zavrznout, když jsem si to nepomyslil! To bývá jeho místečko – ale já jsem rád, když sem nemusím, zvláště o polednách. Neříkají tu darmo „u začarovaného kamene“. Hajný chlapíka vylil – he, he, a chlapec tu nejspíš prolil několik zamilovaných slziček. Teď spí! – Co mu to napadá? – a heká, jako by ho tlačila můra – místo aby on tlačil dudy. He, Švando! – Švando!
+**KALAFUNA** _(trochu bojácně se ohlíží, nežli ŠVANDU zhlédne)_: Ať neumím kalamajku[^11] zavrznout, když jsem si to nepomyslil! To bývá jeho místečko – ale já jsem rád, když sem nemusím, zvláště o polednách. Neříkají tu darmo „u začarovaného kamene“. Hajný chlapíka vylil – he, he, a chlapec tu nejspíš prolil několik zamilovaných slziček. Teď spí! – Co mu to napadá? – a heká, jako by ho tlačila můra – místo aby on tlačil dudy. He, Švando! – Švando!
 
 **ŠVANDA** _(vyskočí)_: Co je to? Kdo je to?
 
@@ -532,7 +532,7 @@ _KALAFUNA, ŠVANDA spící._
 
 **ŠVANDA**: Myslím si: skoč oko nebo zub – fouknu do měchu a začnu hrát. _(Hraje polku.)_
 
-**KALAFUNA**: A paničky utíkaly, jako by do nich střelil – he, he! U nás – _(pozoruje podivnou hru)_ by to arci prošlo; ale páni mají – jiné lahůdky – u nich to jde: es tralalala. Ale Švando _(KALAFUNA se postupně roztančí podle Švandových dud.)_, dej pokoj – tacet[12](#footnote-27518-12) – dělej pauzu! _(Pláče pohnutím, zpívá a přiznává podle Švandovy melodie.)_
+**KALAFUNA**: A paničky utíkaly, jako by do nich střelil – he, he! U nás – _(pozoruje podivnou hru)_ by to arci prošlo; ale páni mají – jiné lahůdky – u nich to jde: es tralalala. Ale Švando _(KALAFUNA se postupně roztančí podle Švandových dud.)_, dej pokoj – tacet[^12] – dělej pauzu! _(Pláče pohnutím, zpívá a přiznává podle Švandovy melodie.)_
 
 **ŠVANDA** _(přestane hrát)_: Copak ti je?
 
@@ -610,7 +610,7 @@ _DOROTKA. Předešlí._
 
 **DOROTKA**: Ale najisto! Snad bys mohl nějakou slevit.
 
-**ŠVANDA**: No – vždyť uvidíme. Teď neplač; měj se dobře a chystej se zatím na katechismus[13](#footnote-27518-13)! _(Polibek, ŠVANDA rychle odchází.)_
+**ŠVANDA**: No – vždyť uvidíme. Teď neplač; měj se dobře a chystej se zatím na katechismus[^13]! _(Polibek, ŠVANDA rychle odchází.)_
 
 **DOROTKA**: Švando! Počkej!
 
@@ -770,28 +770,28 @@ jak vzplála noc.
 
 _OPONA_
 
-[1](#footnote-27518-1-backlink) Dozorce nad vězni. _Pozn. red._
+[^1]: Dozorce nad vězni. _Pozn. red._
 
-[2](#footnote-27518-2-backlink) Hrome! (It.). _Pozn. red._
+[^2]: Hrome! (It.). _Pozn. red._
 
-[3](#footnote-27518-3-backlink) Hudební nástroj. _Pozn. red._
+[^3]: Hudební nástroj. _Pozn. red._
 
-[4](#footnote-27518-4-backlink) Zahajovací fanfáry. _Pozn. red._
+[^4]: Zahajovací fanfáry. _Pozn. red._
 
-[5](#footnote-27518-5-backlink) První houslista. _Pozn. red._
+[^5]: První houslista. _Pozn. red._
 
-[6](#footnote-27518-6-backlink) Od základu. _Pozn. red._
+[^6]: Od základu. _Pozn. red._
 
-[7](#footnote-27518-7-backlink) Mladý kohout na výkrm. _Pozn. red._
+[^7]: Mladý kohout na výkrm. _Pozn. red._
 
-[8](#footnote-27518-8-backlink) Nyní. _Pozn. red._
+[^8]: Nyní. _Pozn. red._
 
-[9](#footnote-27518-9-backlink) Zásobník troudu, snadno zápalné látky. _Pozn. red._
+[^9]: Zásobník troudu, snadno zápalné látky. _Pozn. red._
 
-[10](#footnote-27518-10-backlink) Píšťala. _Pozn. red._
+[^10]: Píšťala. _Pozn. red._
 
-[11](#footnote-27518-11-backlink) Lidový kolový tanec. _Pozn. red._
+[^11]: Lidový kolový tanec. _Pozn. red._
 
-[12](#footnote-27518-12-backlink) Pomlka, přestávka v hudbě. _Pozn. red._
+[^12]: Pomlka, přestávka v hudbě. _Pozn. red._
 
-[13](#footnote-27518-13-backlink) Poučení a zkouška snoubenců před sňatkem. _Pozn. red._
+[^13]: Poučení a zkouška snoubenců před sňatkem. _Pozn. red._

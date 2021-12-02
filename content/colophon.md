@@ -1,6 +1,8 @@
 ---
-title: ''
+title: Tiráž
 ---
+
+***
 
 Strakonický dudák
 
@@ -11,9 +13,7 @@ o třech dějstvích
 Josef Kajetán Tyl
 
 
----
-title: ''
----
+***
 
 Znění tohoto textu vychází z díla [Strakonický dudák](https://search.mlp.cz/cz/titul/strakonicky-dudak/103547/) tak, jak bylo vydáno nakladatelstvím Albatros v Praze v roce 1979. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -34,9 +34,7 @@ Verze 1.0 z 25. 10. 2019.
 ![image004.jpg](./resources/image004_fmt.jpeg)
 
 
----
-title: ''
----
+***
 
 **Josef Kajetán Tyl  
 Strakonický dudák**

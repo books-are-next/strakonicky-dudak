@@ -21,7 +21,7 @@ nechce-li si uši smočit;
 kdo však umí chytře hrát,  
 dovede tu pevně stát.
 
-Ano, chytrost žádné čáry. Já to zkusil už v těch nejzamotanějších pleteninách života; chytrá hlava se neztratí. Kdybych měl vypravovat, co jsem všechno tropil od té chvíle, když jsem jakožto řádný študent spal poslední noc na biliáru – kdybych to měl vypravovat: to by byla kronika, tlustší nežli Hájkova a strakatější nežli Enšpígl. Teď budeme zkoušet ještě jedno. Zkusíme získat místo sekretáře, kasíra nebo něco podobného k cestujícímu koncertistovi. Proč ne? Vždyť podle toho vypadáme, a to nynčko vynáší nejvíc. Já už dávno po jednom pasu a teď mu sedím na patách. Tuhle se prý uhostil. Vederemo[14](#footnote-27518-14)! _(Čte nápis.)_ Vítáme vás… Ah, to je mudrc hospodský. Jen jestli také říká: Na shledanou, když nemá poutník prášky. – Holahó!
+Ano, chytrost žádné čáry. Já to zkusil už v těch nejzamotanějších pleteninách života; chytrá hlava se neztratí. Kdybych měl vypravovat, co jsem všechno tropil od té chvíle, když jsem jakožto řádný študent spal poslední noc na biliáru – kdybych to měl vypravovat: to by byla kronika, tlustší nežli Hájkova a strakatější nežli Enšpígl. Teď budeme zkoušet ještě jedno. Zkusíme získat místo sekretáře, kasíra nebo něco podobného k cestujícímu koncertistovi. Proč ne? Vždyť podle toho vypadáme, a to nynčko vynáší nejvíc. Já už dávno po jednom pasu a teď mu sedím na patách. Tuhle se prý uhostil. Vederemo[^14]! _(Čte nápis.)_ Vítáme vás… Ah, to je mudrc hospodský. Jen jestli také říká: Na shledanou, když nemá poutník prášky. – Holahó!
 
 ## Výstup 2
 
@@ -61,7 +61,7 @@ _MIKULI, VOCILKA._
 
 **VOCILKA**: Princeznou?
 
-**MIKULI**: Naše princezna je nejroztomilejší na světě, nejí než broskvová jádra a nepije než mošusový[15](#footnote-27518-15) květ, ale asi od jednoho roku na ni padl tak hluboký smutek, že ani nemluví; nadarmo pro ni strojili všelijaká obveselení. Tu přiletěla pověst o divné hudbě tvého krajana a otec smutné princezny vypravil za ním posly, aby ji svojí hrou potěšil. Dudáček přišel, a já se nyní půjdu poptat, kdy smí přijít do paláce. _(Odejde.)_
+**MIKULI**: Naše princezna je nejroztomilejší na světě, nejí než broskvová jádra a nepije než mošusový[^15] květ, ale asi od jednoho roku na ni padl tak hluboký smutek, že ani nemluví; nadarmo pro ni strojili všelijaká obveselení. Tu přiletěla pověst o divné hudbě tvého krajana a otec smutné princezny vypravil za ním posly, aby ji svojí hrou potěšil. Dudáček přišel, a já se nyní půjdu poptat, kdy smí přijít do paláce. _(Odejde.)_
 
 **VOCILKA**: Náš dudák přišel rozveselit princeznu? Viktoria, pšenice kvete, budeme sklízet koláče! Ale teď se, příteli Vocilko, řádně seber a prezentýruj se. Moje garderoba je sice trochu sešlá – tuhle z levého šosu bude brzy cedník a kolena se derou na čerstvé povětří; ale vždyť máš ještě jednu rukavičku – vytáhneš si límec – a jsi hotov. Tak, jen chutě do toho, a mysli na sekretářství. Arci, když se máš přiznat, zdali se k tomu hodíš? Pah, proč by ses nehodil! Nebudeš první, kdo se vydává za něco, k čemu se vůbec nehodí. Beztak se ledaco po vrchu leskne, ale uvnitř je to dým. _(Zpívá.)_
 
@@ -83,7 +83,7 @@ ale uvnitř je to dým.
 Mnohý mistr pošle dílo  
 na výstavu, až je milo,  
 dostane i medálii,  
-jako v ňáké batálii,[16](#footnote-27518-16)  
+jako v ňáké batálii,[^16]  
 potom chodí jako páv.  
 Doma zatím pilně píchá  
 tovaryš a hořce vzdychá;  
@@ -131,7 +131,7 @@ _Vejde ŠVANDA. VOCILKA. ŠVANDA v černém fraku, ale aby na něm visel, má b
 
 **ŠVANDA** _(přicházeje zívá a protahuje se)_: Ah – tohle je veselé živobytí – jako o Štědrém večeru při prázdné míse. Nic než dlouhá chvíle. Někdy mne to arci strhne do proudu – tu se jí a pije; ale potom je zas, jako by vypálil. A nejhezčí na tom je, že nemám posavád žádných tisíců. Ty peníze jdou u mne jako na dračku.
 
-**VOCILKA** _(který stál stranou, předstoupí s mnohými poklonami)_: Servitore, signor musicanto[17](#footnote-27518-17) – poníženě ruce líbám.
+**VOCILKA** _(který stál stranou, předstoupí s mnohými poklonami)_: Servitore, signor musicanto[^17] – poníženě ruce líbám.
 
 **ŠVANDA**: Co vás to napadá? – A jakýpak vy jste pták?
 
@@ -147,7 +147,7 @@ _Vejde ŠVANDA. VOCILKA. ŠVANDA v černém fraku, ale aby na něm visel, má b
 
 **ŠVANDA**: To jste blázínek.
 
-**VOCILKA**: Já vím, ale ono je teď mnoho takových muzikantských zfanfrnělců – to je teď jako cholera. Přitom pozoruju, že nemáte u sebe žádného, aby se staral o vaše pohodlí, aby obstarával vaše koncerty, roznášel recenzentům bilety[18](#footnote-27518-18) – a já bych byl nejšťastnější člověk, kdybych vám mohl k tomu všemu obětovat svoje mizerné služby.
+**VOCILKA**: Já vím, ale ono je teď mnoho takových muzikantských zfanfrnělců – to je teď jako cholera. Přitom pozoruju, že nemáte u sebe žádného, aby se staral o vaše pohodlí, aby obstarával vaše koncerty, roznášel recenzentům bilety[^18] – a já bych byl nejšťastnější člověk, kdybych vám mohl k tomu všemu obětovat svoje mizerné služby.
 
 **ŠVANDA**: To by bylo snad tuze mnoho.
 
@@ -189,7 +189,7 @@ _Vejde ŠVANDA. VOCILKA. ŠVANDA v černém fraku, ale aby na něm visel, má b
 
 _GULINARI a VANIKA přinášejí láhev vína, dvě sklenice a na talíři pochoutky a postaví to na stůl. Předešlí._
 
-**VOCILKA**: Šlaku, to jsou hezké perličky! _(Kouká po nich.)_ Veritábl[19](#footnote-27518-19) indiánky! Na slovíčko, krajanko! _(Bere ji za ruku.)_
+**VOCILKA**: Šlaku, to jsou hezké perličky! _(Kouká po nich.)_ Veritábl[^19] indiánky! Na slovíčko, krajanko! _(Bere ji za ruku.)_
 
 **GULINARI** _(vyhýbá se mu)_: Krajanko? Ani se mi nezdá.
 
@@ -213,7 +213,7 @@ _GULINARI a VANIKA přinášejí láhev vína, dvě sklenice a na talíři poc
 
 ## Výstup 5
 
-_Před vchodem ROSAVA v oděvu poutnickém. Za ní DOROTKA s trumarýnou[20](#footnote-27518-20), plachetku na hlavě; KALAFUNA s houslemi ve futrálu, ranec na zádech. Předešlí._
+_Před vchodem ROSAVA v oděvu poutnickém. Za ní DOROTKA s trumarýnou[^20], plachetku na hlavě; KALAFUNA s houslemi ve futrálu, ranec na zádech. Předešlí._
 
 **ROSAVA**:
 
@@ -282,7 +282,7 @@ vzácným poutem s vámi sblížena. _(Zmizí.)_
 
 **DOROTKA**. Nic?
 
-**ŠVANDA**: To jest – peněz jsem vydělal už dost; ale to se ti sesype všude podivných lidí, ten je muzikant, ten je komediant, ten chce to, ten ono – pak jsem musil dávat traktace[21](#footnote-27518-21) – a tak mi všechny peníze zas vylítaly!
+**ŠVANDA**: To jest – peněz jsem vydělal už dost; ale to se ti sesype všude podivných lidí, ten je muzikant, ten je komediant, ten chce to, ten ono – pak jsem musil dávat traktace[^21] – a tak mi všechny peníze zas vylítaly!
 
 **DOROTKA**: Ale Švando!
 
@@ -396,7 +396,7 @@ má žena Kordula,
 tak bude klít.
 
 Já jsem ze Strakonic  
-capo[22](#footnote-27518-22) prim ex propris  
+capo[^22] prim ex propris  
 s kapsou prázdnou.  
 Na zádech mám ranec  
 a v ruce lívanec,  
@@ -429,7 +429,7 @@ _Skvostný šachový sál. V pozadí vyvýšený trůn pro princeznu a sedadla
 
 ## Výstup 7
 
-_ZULIKA sedí na trůně, zastřena závojem. Po obou stranách paní a páni, všichni stojí jako zakleti do vznešené nudy. Komorníci jen mimicky ohlašují ŠVANDU, jenž je teď v pěkném národním kroji a kozlíka[23](#footnote-27518-23) jeden fábor, i VOCILKU. Od komorníků předvede ŠVANDU před princeznu DVOŘAN._
+_ZULIKA sedí na trůně, zastřena závojem. Po obou stranách paní a páni, všichni stojí jako zakleti do vznešené nudy. Komorníci jen mimicky ohlašují ŠVANDU, jenž je teď v pěkném národním kroji a kozlíka[^23] jeden fábor, i VOCILKU. Od komorníků předvede ŠVANDU před princeznu DVOŘAN._
 
 **DVOŘAN** _(šeptavě)_: Jeho Milost, sultán všech sultánů, posílá své milované dcerušce tohoto muzikanta, aby její vysoce urozený smutek umírnil.
 
@@ -794,22 +794,22 @@ láska odolá i čaromoci!
 
 _OPONA_
 
-[14](#footnote-27518-14-backlink) Uvidíme. (It.) _Pozn. red._
+[^14]: Uvidíme. (It.) _Pozn. red._
 
-[15](#footnote-27518-15-backlink) Pižmový. _Pozn. red._
+[^15]: Pižmový. _Pozn. red._
 
-[16](#footnote-27518-16-backlink) (Patálie), vojna, bitva. _Pozn. red._
+[^16]: (Patálie), vojna, bitva. _Pozn. red._
 
-[17](#footnote-27518-17-backlink) Služebník, pane muzikante. (It.) _Pozn. red._
+[^17]: Služebník, pane muzikante. (It.) _Pozn. red._
 
-[18](#footnote-27518-18-backlink) Lístky. _Pozn. red._
+[^18]: Lístky. _Pozn. red._
 
-[19](#footnote-27518-19-backlink) Pravý, skutečný. (Franc.) _Pozn. red._
+[^19]: Pravý, skutečný. (Franc.) _Pozn. red._
 
-[20](#footnote-27518-20-backlink) Starý italský hudební nástroj (trubka), užívaný námořníky. _Pozn. red._
+[^20]: Starý italský hudební nástroj (trubka), užívaný námořníky. _Pozn. red._
 
-[21](#footnote-27518-21-backlink) Hostina. _Pozn. red._
+[^21]: Hostina. _Pozn. red._
 
-[22](#footnote-27518-22-backlink) Hlava, vedoucí. (It.) _Pozn. red._
+[^22]: Hlava, vedoucí. (It.) _Pozn. red._
 
-[23](#footnote-27518-23-backlink) Měch u dud. _Pozn. red._
+[^23]: Měch u dud. _Pozn. red._
