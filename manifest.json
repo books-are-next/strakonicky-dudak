@@ -1,121 +1,47 @@
 {
   "author": "Josef Kajetán Tyl",
-  "identifier": "tyl-strakonicky-dudak-f498d4e",
+  "edition": "beletrie",
+  "identifier": "tyl-strakonicky-dudak-e5e12a0",
   "languagecode": "cs",
   "modified": "2021-08-25T07:15:15.928Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "subtitle": "Národní báchorka se zpěvy o třech dějstvích",
   "title": "Strakonický dudák",
-  "revision": "f498d4e",
+  "revision": "e5e12a0",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 17:10:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638378634596
+    "date": "Thu Dec 02 2021 17:02:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638464565672
   },
   "documents": [
     {
-      "title": "",
-      "file": "colophon.html",
-      "words": 152,
-      "chars": 1005,
-      "ideas": 26,
-      "role": "colophon",
-      "order": null,
-      "next": "strakonicky_dudak_001.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "title: ''",
-              "id": "title-",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "title: ''",
-              "id": "title--1",
-              "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "index.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "index",
-      "order": null,
-      "next": "strakonicky_dudak_001.html",
-      "toc": []
-    },
-    {
-      "title": "",
-      "file": "resources.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "strakonicky_dudak_001.html",
-      "toc": []
-    },
-    {
-      "title": "",
-      "file": "strakonicky_dudak_001.html",
+      "title": "Strakonický dudák",
+      "file": "strakonicky_dudak_002.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "strakonicky_dudak_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "strakonicky_dudak_002.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 1,
-      "prev": "strakonicky_dudak_001.html",
       "next": "strakonicky_dudak_005.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "OSOBY",
+      "title": "OSOBY • Strakonický dudák",
       "file": "strakonicky_dudak_005.html",
       "words": 106,
       "chars": 727,
       "ideas": 25,
       "role": "chapter",
-      "order": 2,
+      "order": 1,
       "prev": "strakonicky_dudak_002.html",
       "next": "strakonicky_dudak_006.html",
       "toc": [
@@ -123,19 +49,19 @@
           "index": 0,
           "level": 1,
           "name": "OSOBY",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "DĚJSTVÍ PRVNÍ",
+      "title": "DĚJSTVÍ PRVNÍ • Strakonický dudák",
       "file": "strakonicky_dudak_006.html",
       "words": 4872,
-      "chars": 26720,
+      "chars": 26731,
       "ideas": 471,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "strakonicky_dudak_005.html",
       "next": "strakonicky_dudak_007.html",
       "toc": [
@@ -143,7 +69,7 @@
           "index": 0,
           "level": 1,
           "name": "DĚJSTVÍ PRVNÍ",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 1,
@@ -241,13 +167,13 @@
       ]
     },
     {
-      "title": "DĚJSTVÍ DRUHÉ",
+      "title": "DĚJSTVÍ DRUHÉ • Strakonický dudák",
       "file": "strakonicky_dudak_007.html",
       "words": 5551,
-      "chars": 30973,
+      "chars": 30964,
       "ideas": 470,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "strakonicky_dudak_006.html",
       "next": "strakonicky_dudak_008.html",
       "toc": [
@@ -255,7 +181,7 @@
           "index": 0,
           "level": 1,
           "name": "DĚJSTVÍ DRUHÉ",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 1,
@@ -353,21 +279,21 @@
       ]
     },
     {
-      "title": "DĚJSTVÍ TŘETÍ",
+      "title": "DĚJSTVÍ TŘETÍ • Strakonický dudák",
       "file": "strakonicky_dudak_008.html",
       "words": 4588,
-      "chars": 25756,
+      "chars": 25748,
       "ideas": 337,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "strakonicky_dudak_007.html",
-      "next": null,
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "DĚJSTVÍ TŘETÍ",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 1,
@@ -456,17 +382,37 @@
           ]
         }
       ]
+    },
+    {
+      "title": "Tiráž • Strakonický dudák",
+      "file": "colophon.html",
+      "words": 149,
+      "chars": 992,
+      "ideas": 25,
+      "role": "colophon",
+      "order": null,
+      "prev": "strakonicky_dudak_008.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
     }
   ],
   "totals": {
     "all": {
-      "words": 15269,
-      "chars": 85181,
-      "ideas": 1329
+      "words": 15273,
+      "chars": 85207,
+      "ideas": 1332
     },
     "chapters": {
       "words": 15117,
-      "chars": 84176,
+      "chars": 84170,
       "ideas": 1303
     }
   }
