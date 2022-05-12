@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Strakonický dudák
@@ -13,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - strakonicky_dudak_002.html
+  - promo.html
   - strakonicky_dudak_005.html
   - strakonicky_dudak_006.html
   - strakonicky_dudak_007.html

@@ -1,5 +1,6 @@
 ---
 title: DĚJSTVÍ TŘETÍ
+contentType: prose
 ---
 
 ## Výstup 1

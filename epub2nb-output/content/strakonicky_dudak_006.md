@@ -1,5 +1,6 @@
 ---
 title: DĚJSTVÍ PRVNÍ
+contentType: prose
 ---
 
 ## Výstup 1., prolog před oponou

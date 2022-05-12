@@ -1,22 +1,32 @@
 {
-  "author": "Josef Kajetán Tyl",
-  "edition": "beletrie",
-  "identifier": "tyl-strakonicky-dudak-e5e12a0",
-  "languagecode": "cs",
-  "modified": "2021-08-25T07:15:15.928Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
-  "subtitle": "Národní báchorka se zpěvy o třech dějstvích",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Strakonický dudák",
-  "revision": "e5e12a0",
+  "subtitle": "Národní báchorka se zpěvy o třech dějstvích",
+  "author": "Josef Kajetán Tyl",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "tyl-strakonicky-dudak-e1848c0",
+  "revision": "e1848c0",
+  "readingOrder": [
+    "promo.html",
+    "strakonicky_dudak_005.html",
+    "strakonicky_dudak_006.html",
+    "strakonicky_dudak_007.html",
+    "strakonicky_dudak_008.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Dec 02 2021 17:02:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638464565672
+    "date": "Thu May 12 2022 10:35:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351751847
   },
   "documents": [
     {
-      "title": "Strakonický dudák",
-      "file": "strakonicky_dudak_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +34,17 @@
       "order": 0,
       "prev": null,
       "next": "strakonicky_dudak_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "OSOBY • Strakonický dudák",
+      "title": "OSOBY",
       "file": "strakonicky_dudak_005.html",
       "words": 106,
       "chars": 727,
       "ideas": 25,
       "role": "chapter",
       "order": 1,
-      "prev": "strakonicky_dudak_002.html",
+      "prev": "promo.html",
       "next": "strakonicky_dudak_006.html",
       "toc": [
         {
@@ -55,7 +57,7 @@
       ]
     },
     {
-      "title": "DĚJSTVÍ PRVNÍ • Strakonický dudák",
+      "title": "DĚJSTVÍ PRVNÍ",
       "file": "strakonicky_dudak_006.html",
       "words": 4872,
       "chars": 26731,
@@ -167,7 +169,7 @@
       ]
     },
     {
-      "title": "DĚJSTVÍ DRUHÉ • Strakonický dudák",
+      "title": "DĚJSTVÍ DRUHÉ",
       "file": "strakonicky_dudak_007.html",
       "words": 5551,
       "chars": 30964,
@@ -279,7 +281,7 @@
       ]
     },
     {
-      "title": "DĚJSTVÍ TŘETÍ • Strakonický dudák",
+      "title": "DĚJSTVÍ TŘETÍ",
       "file": "strakonicky_dudak_008.html",
       "words": 4588,
       "chars": 25748,
@@ -384,11 +386,11 @@
       ]
     },
     {
-      "title": "Tiráž • Strakonický dudák",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 149,
-      "chars": 992,
-      "ideas": 25,
+      "words": 123,
+      "chars": 804,
+      "ideas": 18,
       "role": "colophon",
       "order": null,
       "prev": "strakonicky_dudak_008.html",
@@ -406,9 +408,9 @@
   ],
   "totals": {
     "all": {
-      "words": 15273,
-      "chars": 85207,
-      "ideas": 1332
+      "words": 15247,
+      "chars": 85019,
+      "ideas": 1325
     },
     "chapters": {
       "words": 15117,

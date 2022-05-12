@@ -46,7 +46,7 @@
         "filename": "strakonicky_dudak_002.md",
         "xhtml": "strakonicky_dudak_002.xhtml",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": false,
         "title": "",
@@ -138,7 +138,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Josef Kajetán Tyl",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-02T17:01:52.326Z"
+      "modified": "2019-10-30T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -281,6 +281,6 @@
       "user": "books-are-next",
       "repo": "strakonicky-dudak"
     },
-    "generatedAt": 1638464513017
+    "generatedAt": 1652351286047
   }
 }
