@@ -1,5 +1,6 @@
 ---
 title: DĚJSTVÍ DRUHÉ
+contentType: prose
 ---
 
 ## Výstup 1

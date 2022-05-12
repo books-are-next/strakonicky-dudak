@@ -1,5 +1,6 @@
 ---
 title: OSOBY
+contentType: prose
 ---
 
 **LESANA**, panovnice nad lesními pannami, polednicemi a divými ženami
