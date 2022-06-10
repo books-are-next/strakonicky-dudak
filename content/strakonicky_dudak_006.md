@@ -3,6 +3,8 @@ title: DĚJSTVÍ PRVNÍ
 contentType: prose
 ---
 
+<section>
+
 ## Výstup 1., prolog před oponou
 
 _Vystoupí VOCILKA v nevalném obleku, který však střihem prozrazuje lepší časy (VOCILKA mívá dlouhé vlasy, kníry a bradičku, na zádech malý vak, v ruce tlustou hůl), a zpívá:_
@@ -796,3 +798,5 @@ _OPONA_
 [^12]: Pomlka, přestávka v hudbě. _Pozn. red._
 
 [^13]: Poučení a zkouška snoubenců před sňatkem. _Pozn. red._
+
+</section>

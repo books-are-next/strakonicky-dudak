@@ -3,6 +3,8 @@ title: OSOBY
 contentType: prose
 ---
 
+<section>
+
 **LESANA**, panovnice nad lesními pannami, polednicemi a divými ženami
 
 **BĚLENA**, lesní panna
@@ -50,3 +52,5 @@ Lesní panny, divé ženy, půlnoční duchové
 **DVOŘENÍN**
 
 Komonstvo princezny Zuliky, králova pážata, Alamírovi oděnci
+
+</section>
