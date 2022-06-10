@@ -3,6 +3,8 @@ title: DĚJSTVÍ TŘETÍ
 contentType: prose
 ---
 
+<section>
+
 ## Výstup 1
 
 _Vesnická hospoda, několik stolů a židlí._
@@ -653,3 +655,5 @@ _OPONA_
 [^30]: Výhra na dvě čísla (při hře v loterii). _Pozn. red._
 
 [^31]: V dramaturgické úpravě Tylova textu, jejímž autorem je Jiří Frejka, je děj pozměněn. Původně Vocilka s dudy utekl. _Pozn. red._
+
+</section>

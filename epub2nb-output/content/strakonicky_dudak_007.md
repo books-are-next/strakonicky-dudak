@@ -3,6 +3,8 @@ title: DĚJSTVÍ DRUHÉ
 contentType: prose
 ---
 
+<section>
+
 ## Výstup 1
 
 _Krátká ulice v městě ideálního slohu. Po pravé straně hostinec se zahrádkou, nad ním nápis „Vítáme vás, poutníku“._
@@ -814,3 +816,5 @@ _OPONA_
 [^22]: Hlava, vedoucí. (It.) _Pozn. red._
 
 [^23]: Měch u dud. _Pozn. red._
+
+</section>

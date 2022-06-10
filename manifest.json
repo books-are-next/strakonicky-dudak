@@ -9,8 +9,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "tyl-strakonicky-dudak-e1848c0",
-  "revision": "e1848c0",
+  "identifier": "tyl-strakonicky-dudak-e94f5f0",
+  "revision": "e94f5f0",
   "readingOrder": [
     "promo.html",
     "strakonicky_dudak_005.html",
@@ -20,8 +20,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:35:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351751847
+    "date": "Fri Jun 10 2022 17:56:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883799754
   },
   "documents": [
     {
@@ -388,9 +388,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 123,
-      "chars": 804,
-      "ideas": 18,
+      "words": 76,
+      "chars": 525,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "strakonicky_dudak_008.html",
@@ -408,9 +408,9 @@
   ],
   "totals": {
     "all": {
-      "words": 15247,
-      "chars": 85019,
-      "ideas": 1325
+      "words": 15200,
+      "chars": 84740,
+      "ideas": 1314
     },
     "chapters": {
       "words": 15117,
