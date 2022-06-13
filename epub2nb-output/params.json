@@ -32,103 +32,109 @@
     },
     "structure": [
       {
-        "filename": "strakonicky_dudak_001.md",
-        "xhtml": "strakonicky_dudak_001.xhtml",
-        "id": 0,
-        "role": "cover",
-        "numberedChildren": false,
-        "inToc": false,
-        "title": "",
-        "subtitle": "",
-        "children": []
-      },
-      {
-        "filename": "strakonicky_dudak_002.md",
-        "xhtml": "strakonicky_dudak_002.xhtml",
-        "id": 1,
-        "role": "promo",
-        "numberedChildren": false,
-        "inToc": false,
-        "title": "",
-        "subtitle": "",
-        "children": []
-      },
-      {
-        "filename": "strakonicky_dudak_003.md",
-        "xhtml": "strakonicky_dudak_003.xhtml",
-        "id": 2,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "title": "",
-        "subtitle": "",
-        "children": []
-      },
-      {
-        "filename": "strakonicky_dudak_004.md",
-        "xhtml": "strakonicky_dudak_004.xhtml",
-        "id": 3,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "title": "",
-        "subtitle": "",
-        "children": []
-      },
-      {
-        "filename": "strakonicky_dudak_005.md",
-        "xhtml": "strakonicky_dudak_005.xhtml",
-        "id": 4,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "title": "OSOBY",
-        "subtitle": "",
-        "children": []
-      },
-      {
-        "filename": "strakonicky_dudak_006.md",
-        "xhtml": "strakonicky_dudak_006.xhtml",
-        "id": 5,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "title": "DĚJSTVÍ PRVNÍ",
-        "subtitle": "",
-        "children": []
-      },
-      {
-        "filename": "strakonicky_dudak_007.md",
-        "xhtml": "strakonicky_dudak_007.xhtml",
-        "id": 6,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "title": "DĚJSTVÍ DRUHÉ",
-        "subtitle": "",
-        "children": []
-      },
-      {
-        "filename": "strakonicky_dudak_008.md",
-        "xhtml": "strakonicky_dudak_008.xhtml",
-        "id": 7,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "title": "DĚJSTVÍ TŘETÍ",
-        "subtitle": "",
-        "children": []
-      },
-      {
-        "filename": "strakonicky_dudak_009.md",
-        "xhtml": "strakonicky_dudak_009.xhtml",
-        "id": 8,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "title": "",
-        "subtitle": "",
-        "children": []
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "strakonicky_dudak_001.md",
+            "xhtml": "strakonicky_dudak_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "numberedChildren": false,
+            "inToc": false,
+            "title": "",
+            "subtitle": "",
+            "children": []
+          },
+          {
+            "filename": "strakonicky_dudak_002.md",
+            "xhtml": "strakonicky_dudak_002.xhtml",
+            "id": 1,
+            "role": "promo",
+            "numberedChildren": false,
+            "inToc": false,
+            "title": "",
+            "subtitle": "",
+            "children": []
+          },
+          {
+            "filename": "strakonicky_dudak_003.md",
+            "xhtml": "strakonicky_dudak_003.xhtml",
+            "id": 2,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "title": "",
+            "subtitle": "",
+            "children": []
+          },
+          {
+            "filename": "strakonicky_dudak_004.md",
+            "xhtml": "strakonicky_dudak_004.xhtml",
+            "id": 3,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "title": "",
+            "subtitle": "",
+            "children": []
+          },
+          {
+            "filename": "strakonicky_dudak_005.md",
+            "xhtml": "strakonicky_dudak_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "title": "OSOBY",
+            "subtitle": "",
+            "children": []
+          },
+          {
+            "filename": "strakonicky_dudak_006.md",
+            "xhtml": "strakonicky_dudak_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "title": "DĚJSTVÍ PRVNÍ",
+            "subtitle": "",
+            "children": []
+          },
+          {
+            "filename": "strakonicky_dudak_007.md",
+            "xhtml": "strakonicky_dudak_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "title": "DĚJSTVÍ DRUHÉ",
+            "subtitle": "",
+            "children": []
+          },
+          {
+            "filename": "strakonicky_dudak_008.md",
+            "xhtml": "strakonicky_dudak_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "title": "DĚJSTVÍ TŘETÍ",
+            "subtitle": "",
+            "children": []
+          },
+          {
+            "filename": "strakonicky_dudak_009.md",
+            "xhtml": "strakonicky_dudak_009.xhtml",
+            "id": 8,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "title": "",
+            "subtitle": "",
+            "children": []
+          }
+        ]
       }
     ]
   },
@@ -281,6 +287,6 @@
       "user": "books-are-next",
       "repo": "strakonicky-dudak"
     },
-    "generatedAt": 1654948935301
+    "generatedAt": 1655156962591
   }
 }

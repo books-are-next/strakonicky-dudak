@@ -21,14 +21,17 @@ readingOrder:
   - strakonicky_dudak_008.html
   - colophon.html
 tocBase:
-  - link: strakonicky_dudak_005.html
-    title: OSOBY
-  - link: strakonicky_dudak_006.html
-    title: DĚJSTVÍ PRVNÍ
-  - link: strakonicky_dudak_007.html
-    title: DĚJSTVÍ DRUHÉ
-  - link: strakonicky_dudak_008.html
-    title: DĚJSTVÍ TŘETÍ
+  - id: section-1
+    children:
+      - link: strakonicky_dudak_005.html
+        title: OSOBY
+      - link: strakonicky_dudak_006.html
+        title: DĚJSTVÍ PRVNÍ
+      - link: strakonicky_dudak_007.html
+        title: DĚJSTVÍ DRUHÉ
+      - link: strakonicky_dudak_008.html
+        title: DĚJSTVÍ TŘETÍ
+    isSection: true
 static:
   - style
   - scripts
