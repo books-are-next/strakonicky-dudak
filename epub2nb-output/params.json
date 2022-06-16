@@ -9,7 +9,8 @@
       "languageCode": "cs",
       "subtitle": "Národní báchorka se zpěvy o třech dějstvích",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
@@ -287,6 +288,6 @@
       "user": "books-are-next",
       "repo": "strakonicky-dudak"
     },
-    "generatedAt": 1655271743281
+    "generatedAt": 1655364341413
   }
 }
