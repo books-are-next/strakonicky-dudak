@@ -1,6 +1,6 @@
 ---
 title: DĚJSTVÍ DRUHÉ
-contentType: prose
+contentType: drama
 ---
 
 <section>

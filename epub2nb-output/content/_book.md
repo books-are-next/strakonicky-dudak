@@ -12,8 +12,8 @@ meta:
   languageCode: cs
   subtitle: Národní báchorka se zpěvy o třech dějstvích
   publisherShort: mkp
-  edition: beletrie
-  contentType: prose
+  edition: drama
+  contentType: drama
 readingOrder:
   - promo.html
   - strakonicky_dudak_005.html

@@ -6,11 +6,11 @@
   "subtitle": "Národní báchorka se zpěvy o třech dějstvích",
   "author": "Josef Kajetán Tyl",
   "publisher": "Městská knihovna v Praze",
-  "edition": "beletrie",
+  "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "tyl-strakonicky-dudak-41ccb07",
-  "revision": "41ccb07",
+  "identifier": "tyl-strakonicky-dudak-6747c08",
+  "revision": "6747c08",
   "readingOrder": [
     "promo.html",
     "strakonicky_dudak_005.html",
@@ -20,8 +20,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 16 2022 07:33:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655364837002
+    "date": "Thu Jun 16 2022 12:05:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655381125712
   },
   "documents": [
     {
@@ -409,7 +409,7 @@
   "totals": {
     "all": {
       "words": 15255,
-      "chars": 85075,
+      "chars": 85072,
       "ideas": 1324
     },
     "chapters": {
