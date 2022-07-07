@@ -9,19 +9,19 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "tyl-strakonicky-dudak-9614897",
-  "revision": "9614897",
+  "identifier": "tyl-strakonicky-dudak-68396d5",
+  "revision": "68396d5",
   "readingOrder": [
     "promo.html",
     "strakonicky_dudak_005.html",
     "strakonicky_dudak_006.html",
     "strakonicky_dudak_007.html",
     "strakonicky_dudak_008.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:29:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980174996
+    "date": "Thu Jul 07 2022 08:40:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183221027
   },
   "documents": [
     {
@@ -289,7 +289,7 @@
       "role": "chapter",
       "order": 4,
       "prev": "strakonicky_dudak_007.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -387,11 +387,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 131,
-      "chars": 860,
+      "chars": 859,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "strakonicky_dudak_008.html",
       "next": null,
@@ -409,7 +409,7 @@
   "totals": {
     "all": {
       "words": 15255,
-      "chars": 85072,
+      "chars": 85071,
       "ideas": 1324
     },
     "chapters": {

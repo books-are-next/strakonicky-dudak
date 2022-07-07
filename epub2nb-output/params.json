@@ -62,7 +62,7 @@
             "filename": "strakonicky_dudak_003.md",
             "xhtml": "strakonicky_dudak_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "title": "",
@@ -73,7 +73,7 @@
             "filename": "strakonicky_dudak_004.md",
             "xhtml": "strakonicky_dudak_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "title": "",
@@ -128,7 +128,7 @@
             "filename": "strakonicky_dudak_009.md",
             "xhtml": "strakonicky_dudak_009.xhtml",
             "id": 8,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "title": "",
@@ -288,6 +288,6 @@
       "user": "books-are-next",
       "repo": "strakonicky-dudak"
     },
-    "generatedAt": 1655979811664
+    "generatedAt": 1657182544391
   }
 }
