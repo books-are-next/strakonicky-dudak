@@ -20,7 +20,7 @@ readingOrder:
   - strakonicky_dudak_006.html
   - strakonicky_dudak_007.html
   - strakonicky_dudak_008.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
