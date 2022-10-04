@@ -9,8 +9,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "tyl-strakonicky-dudak-c27d927",
-  "revision": "c27d927",
+  "identifier": "tyl-strakonicky-dudak-ae8c635",
+  "revision": "ae8c635",
   "readingOrder": [
     "promo.html",
     "strakonicky_dudak_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 18:49:46 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664909386524
+    "date": "Tue Oct 04 2022 23:06:05 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664924765774
   },
   "documents": [
     {
